@@ -1,0 +1,4 @@
+2019-12-24T14:54:39+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Coupons starts in the next minute
+2019-12-24T14:54:44+00:00 NOTICE sync.started :: Starting Sync :: Tue, Dec 24, 2019 2:54 PM
+2019-12-24T14:54:46+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Coupons_Initial_Sync starts in the next minute
+2019-12-24T14:55:10+00:00 NOTICE store.disconnected :: Store id 5dfa2857c0213 has been disconnected
